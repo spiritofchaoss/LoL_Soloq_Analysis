@@ -4,7 +4,13 @@
 * Look at some basic stats and drawing a personal conclusion about the champion and how I play the champion
 * https://na.op.gg/summoner/userName=%C3%ACrelia
 
-## Code and Resources Used
+# Code and Resources Used
 **Python Version:** 3.7
+
 **Packages:** pandas, matplotlib, riotwatchers
+
 **Riot API Wrapper Used:** https://riot-watcher.readthedocs.io/en/latest/
+
+**Using Riot API Article:** https://towardsdatascience.com/how-to-use-riot-api-with-python-b93be82dbbd6
+
+# Data Collection

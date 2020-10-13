@@ -13,6 +13,8 @@
 
 **Using Riot API Article:** https://towardsdatascience.com/how-to-use-riot-api-with-python-b93be82dbbd6
 
+**Data Dragon Riot API Library:** https://riot-api-libraries.readthedocs.io/en/latest/ddragon.html
+
 # Data Collection
 Used RiotWatcher wrapper (above) to collect data from Riot API. Data include but are not limited to:
 * TeamId  
@@ -29,3 +31,15 @@ Used RiotWatcher wrapper (above) to collect data from Riot API. Data include but
 * etc...
 
 Also converted Id to names of its corresponding champion, rune, and item names using DDragon (above)
+
+# Data Cleaning
+After collecting a total of ~100 games yielding 1000 rows (10 players per game) I made the following changes to narrow the csv file down to only rows containing games where I played Azir. Changes made include:
+* Changed Unnamed: 0 column to summonerId
+* Parsed out only the summoner name
+* Located and kept only rows where summonerId was me and champion played was Azir
+
+# EDA
+Most stats were fairly clean and needed minimal editing. Looked deeper into combined stats using mostly value_counts() and describe().
+Here is a simple snapshot of what I have found (only applies to me, how I pilot this champion, and some personal statistics).
+
+

@@ -53,3 +53,6 @@ Here is a simple snapshot of what I have found (only applies to me, how I pilot 
 I seems to be looking like I am fixed on the way I play. I choose same summoner spells, keystones, and items majority of the time. Perhaps if I be alittle more flexible to specific matchups or try variations on builds, runes, and spells I may yield different results.
 
 
+<img src="Images/KDA.png">
+
+

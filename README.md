@@ -42,8 +42,14 @@ After collecting a total of ~100 games yielding 1000 rows (10 players per game) 
 Most stats were fairly clean and needed minimal editing. Looked deeper into combined stats using mostly value_counts() and describe().
 Here is a simple snapshot of what I have found (only applies to me, how I pilot this champion, and some personal statistics).
 
-<img src="Images/ss, keystone, items.png"
+<img src="Images/ss, keystone, items.png">
 
-* I am fixed on the way I play. I choose same summoner spells, keystones, items majority of the time. Perhaps if I be alittle more flexible to specific matchups or try variations on builds, runes, and spells I may yield different results.
+* 93/95 games I went Teleport
+
+* 65/95 games I went Conqueror
+
+* Majority of games staples purchased items include Nashor's Tooth, Zhonya's, Morellonomicon, Sorcer's Shoes
+
+I seems to be looking like I am fixed on the way I play. I choose same summoner spells, keystones, and items majority of the time. Perhaps if I be alittle more flexible to specific matchups or try variations on builds, runes, and spells I may yield different results.
 
 

@@ -1,4 +1,5 @@
-# League of Legends Soloq Analysis: Project Overview
+# League of Legends Azir Soloq Analysis: Project Overview
 
-* Compare stats and other data between me and my opponents and teammates to see what aspects I did well and not well.
 * Collect raw data from Riot API and transcribe it into more easily manipulable dataframe.
+* Look at some basic stats and drawing a personal conclusion about the champion and how I play the champion
+* https://na.op.gg/summoner/userName=%C3%ACrelia

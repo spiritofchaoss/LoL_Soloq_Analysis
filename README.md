@@ -36,7 +36,7 @@ Also converted Id to names of its corresponding champion, rune, and item names u
 After collecting a total of ~100 games yielding 1000 rows (10 players per game) I made the following changes to narrow the csv file down to only rows containing games where I played Azir. Changes made include:
 * Changed Unnamed: 0 column to summonerId
 * Parsed out only the summoner name
-* Located and kept only rows where summonerId was me and champion played was Azir
+* Located and kept only rows where summonerId was myself and champion played was Azir
 
 # Exploratory Data Analysis
 Most stats were fairly clean and needed minimal editing. Looked deeper into combined stats using mostly value_counts() and describe().
@@ -53,6 +53,7 @@ Here is a simple snapshot of what I have found (only applies to me, how I pilot 
 I seems to be looking like I am fixed on the way I play. I choose same summoner spells, keystones, and items majority of the time. Perhaps if I be alittle more flexible to specific matchups or try variations on builds, runes, and spells I may yield different results.
 
 
-<img src="Images/KDA.png">
+<img src="Images/kda.jpg">
 
+KDA of 5.9/5.1/7.8
 

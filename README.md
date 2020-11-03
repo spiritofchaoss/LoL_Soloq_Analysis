@@ -53,20 +53,20 @@ Here is a simple snapshot of what I have found (only applies to me, how I pilot 
 I seems to be looking like I am fixed on the way I play. I choose same summoner spells, keystones, and items majority of the time. Perhaps if I be alittle more flexible to specific matchups or try variations on builds, runes, and spells I may yield different results.
 
 
-<img src="Images/kda.jpg">
+<img src="Images/kda.jpg" width="400">
 
 Over 95 games I average 5.8 kills per game, 7.8 assists per game, and 5.2 deaths per game. There is nothing definitive to say solely based of this alone.
 
 
-<img src="Images/gold, damage done, champ level.jpg">
+<img src="Images/gold, damage done, champ level.JPG" width="400">
 
 On average I earn about 11,500 gold (~4 items) while only dealing around 20,000 damage. To myself a good damage per minute is 1000 dmg/min, in this situation I am severly underdoing my role as the mid laner because my damage in the game is so low. Especially since I can see majority of my levels are above level 13, I think game time are over 30 minutes based on what level I am.
 
-<img src="Images/wards placed.jpg">
+<img src="Images/wards placed.JPG" width="700">
 
 Average wards placed at 9 seems mediocre at best for my standards.
 
-<img src="Images/first stats.jpg">
+<img src="Images/first stats.JPG" width="400">
 
 These stats shows I have terrible map participation and influence in the early game. While true Azir is a powerhouse late game and does not contribute much early these numbers are pretty abysmal. The mean CS of 177 may seem okay but I am not for sure because I do not know average game time. Assuming average game time is around 30 minutes, my CS number could be better.
 
